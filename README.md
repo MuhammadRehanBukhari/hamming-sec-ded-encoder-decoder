@@ -13,7 +13,6 @@ This project includes:
 - Full pytest-based unit test suite  
 - Demo script for viewing outputs
 
----
 
 
 ````
